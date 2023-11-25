@@ -39,7 +39,7 @@ Este repositório está licenciado sob a licença MIT.
 **Links úteis**
 
 * Documentação do Arduino: [https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)
-* Curso de Arduino: [https://github.com/andrepfdev/fundamentos-da-linguagem-arduino](https://github.com/andrepfdev/fundamentos-da-linguagem-arduino)
+* Curso de Arduino: [https://github.com/andrepfdev/projetos-praticos-arduino](https://github.com/andrepfdev/projetos-praticos-arduino)
 
 **Exemplos de sketches**
 
